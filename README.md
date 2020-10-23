@@ -1,3 +1,5 @@
+author: Milena Bajic <br/>
+
 # kNN_track_matching
 Module for finding matching GPS points of two trajectories, using k-Mearest Neighbor algorithm.  
 
