@@ -1,5 +1,5 @@
 # kNN_track_matching
-Module for matching measurements of two vehicles based on the GPS measurements, using the k-nearest neighbors algorithm.
+Module for matching GPS points of two trajectories, using k-Mearest Neighbor algorithm.  
 
-
+Example output of the matching result:
 ![Example output with matched trajectories](example.png)
